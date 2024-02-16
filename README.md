@@ -15,10 +15,9 @@ To use this code:
 Clone the repository to your local machine.
 Open the index.html file in your preferred web browser.
 Explore the Amazon-like webpage layout.
+
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
 
-Feel free to customize this README according to your project's specifics and any additional information you'd like to include.
+
